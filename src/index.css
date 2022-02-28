@@ -8,16 +8,15 @@ main {
   --secondary: #31343d;
   --tertiary: #b12704;
   --light: #fafbfa;
-  --dark: radial-gradient(
-    circle,
-    rgba(167, 168, 168, 1) 0%,
-    rgba(69, 99, 128, 1) 100%
+  --dark: linear-gradient(
+    56deg,
+    rgba(34, 59, 195, 0.8463979341736695) 0%,
+    rgba(45, 253, 156, 0.686734068627451) 100%
   );
-  --darker: radial-gradient(
-    circle,
-    rgba(69, 252, 213, 1) 0%,
-    rgba(253, 29, 29, 0.21054359243697474) 33%,
-    rgba(252, 69, 116, 0.38421306022408963) 1000%
+  --darker: linear-gradient(
+    56deg,
+    rgba(34, 59, 195, 0.8463979341736695) 0%,
+    rgba(45, 253, 156, 0.686734068627451) 100%
   );
   --alpha: rgba(255, 255, 255, 0.7);
   --error: rgb(228, 46, 1);

@@ -10,7 +10,6 @@ function App() {
       name: "about me"
     },
     { name: "portfolio" },
-    { name: "contact" },
     {
       name: "resume"
     }

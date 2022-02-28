@@ -11,10 +11,10 @@ function About() {
         My name is Duncan Byrne and I am a web developer from Long Island, New York. I have been working with JavaScript developing projects for two years. I recently graduated from
         a boot camp with Columbia University where I learned a full MERN stack along with the best practices. I had a great time learning and collaborating with the profeesor and 
         fellow students. I am looking to join a company where I can continue to learn and grow as a developer in this field. If you wish to contact me my e-mail address is @duncanbyrne69@outlook.com. 
-        
+
         </p>
         <p>
-          <i class="fa fa-link" aria-hidden="true"></i>
+          
         </p>
       </div>
     </section>

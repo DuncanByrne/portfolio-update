@@ -7,6 +7,22 @@ function Resume() {
       <p>
        
         </p>
+      <h3>Education</h3>
+      Suffolk County Community College -
+      Computer Science Major 2018 -2020 
+
+      <p>Columbia University Coding Boot Camp June 2021 - Septemeber 2021</p>
+
+      <h3>Work Experience</h3> 
+      <p>
+        <li>Suffolk County Department of Social Services 2018-2021</li>
+        <ul>-	Assist case workers in getting information on clients.</ul>
+        <ul>-	Provide support and information to police both local and non-local.</ul>
+        <ul>-	Log client data in excel.</ul>
+        <ul>-	Produce short summary for the case for both the case worker and county records.</ul>
+      </p>
+
+
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
           <li>HTML</li>

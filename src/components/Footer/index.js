@@ -10,7 +10,7 @@ function Footer() {
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/in/duncan-byrne-145087213/"
+      link: "https://www.linkedin.com/in/duncan-byrne-34a699253/"
     },
     {
       name: "fab fa-stack-overflow",
